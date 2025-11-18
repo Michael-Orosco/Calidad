@@ -1,0 +1,27 @@
+[2025-11-18 19:51:49] [INFO] [HTTP]: POST /api/auth/login [::1]
+[2025-11-18 19:51:49] [SUCCESS] [AUTH]: Login exitoso: 1234
+[2025-11-18 19:51:55] [INFO] [HTTP]: POST /api/stats [::1]
+[2025-11-18 19:52:43] [INFO] [HTTP]: GET /api/leaderboard [::1]
+[2025-11-18 19:52:43] [INFO] [DB]: Consultando Ranking en Base de Datos...
+[2025-11-18 19:52:58] [INFO] [HTTP]: POST /api/auth/register [::1]
+[2025-11-18 19:53:43] [INFO] [HTTP]: POST /api/auth/login [::1]
+[2025-11-18 19:53:43] [SUCCESS] [AUTH]: Login exitoso: 1234
+[2025-11-18 19:54:20] [INFO] [HTTP]: POST /api/stats [::1]
+[2025-11-18 19:56:09] [INFO] [HTTP]: PUT /api/user/settings [::1]
+[2025-11-18 19:56:09] [INFO] [USER]: Controles actualizados para ID: 1
+[2025-11-18 19:56:22] [INFO] [HTTP]: PUT /api/user/settings [::1]
+[2025-11-18 19:56:22] [INFO] [USER]: Controles actualizados para ID: 1
+[2025-11-18 19:56:46] [INFO] [HTTP]: PUT /api/user/settings [::1]
+[2025-11-18 19:56:46] [INFO] [USER]: Controles actualizados para ID: 1
+[2025-11-18 19:56:49] [INFO] [HTTP]: PUT /api/user/settings [::1]
+[2025-11-18 19:56:49] [INFO] [USER]: Controles actualizados para ID: 1
+[2025-11-18 19:56:52] [INFO] [HTTP]: PUT /api/user/settings [::1]
+[2025-11-18 19:56:52] [INFO] [USER]: Controles actualizados para ID: 1
+[2025-11-18 19:56:54] [INFO] [HTTP]: PUT /api/user/settings [::1]
+[2025-11-18 19:56:54] [INFO] [USER]: Controles actualizados para ID: 1
+[2025-11-18 19:56:56] [INFO] [HTTP]: PUT /api/user/settings [::1]
+[2025-11-18 19:56:56] [INFO] [USER]: Controles actualizados para ID: 1
+[2025-11-18 19:56:59] [INFO] [HTTP]: PUT /api/user/settings [::1]
+[2025-11-18 19:56:59] [INFO] [USER]: Controles actualizados para ID: 1
+[2025-11-18 19:57:21] [INFO] [DB]: Consultando Ranking en Base de Datos...
+[2025-11-18 19:57:21] [INFO] [HTTP]: GET /api/leaderboard [::1]
